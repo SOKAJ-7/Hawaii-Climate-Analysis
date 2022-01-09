@@ -28,4 +28,11 @@ Figure 2: December Temperature
 
 
 ## Summary
-Based on the statistical analysis we conducted, it can be said that June will be a warmer month than December as is to be expected. However, both months have fairly high average temperatures of 75 and 71 F, respectively. If we assume 68 F (20 C) to be the minimum temperature to not impact business, it appears that 'Surf n' Shake' would be a viable business through December. Furthermore, ~75% of days in December will be over 68 F while an even higher amount of days are above 68 F in June. This means that a large majority of days in both months are warm enough to support the business. If we look at the standard deviations of this data, it can be seen that bith months show similar figures of 
+Based on the statistical analysis we conducted, it can be said that June will be a warmer month than December as is to be expected. However, both months have fairly high average temperatures of 75 and 71 F, respectively. If we assume 68 F (20 C) to be the minimum temperature to not impact business, it appears that 'Surf n' Shake' would be a viable business through December. Furthermore, ~75% of days in December will be over 68 F while an even higher amount of days are above 68 F in June. This means that a large majority of days in both months are warm enough to support the business. If we look at the standard deviations of this data, it can be seen that bith months show similar figures of 3.25 (June) and 3.74 (December). This is supported by the fact that the difference between maximum and minimum temperatures is larger in December than in June.
+
+Based off of this analysis, it would seem that 'Surf n' Shake' should have no problem succeeding in December. But, there is a lot more to weather than just temperature alone. So, it would be prudent to conduct analysis on other weather patterns. Listed below are my suggestions:
+
+-Precipitation analysis: Surfing is a strictly outdoor activity and few things drive people indoors than a rainy day. It would only make sense to compare preciptitation figures between June and December to approximate the amount of days that will be written off due to rain.
+
+
+-Measurment coordinates: The weather pattern measurements will be taken from various station of which we know the coordinates of. Using this data, we can establish a relationship between weather patterns and station coordinates to determine which parts of Oahu will receive the most rainfall and/or lower temperatures. With this knowledge, we can pick a more optimal location for our business.
