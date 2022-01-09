@@ -14,6 +14,9 @@ Three takeaways from this analysis are as follows:
 
 Figures 1 (June) & 2 (December) below demonstrate the basic statistical analysis of the temperature patterns in these months.
 
+
+
+
 ![June_temps](https://user-images.githubusercontent.com/93050931/148696122-e3d30fff-6f69-4956-9936-d4fa830ca191.PNG)
 
 Figure 1: June Temperature
@@ -25,3 +28,4 @@ Figure 2: December Temperature
 
 
 ## Summary
+Based on the statistical analysis we conducted, it can be said that June will be a warmer month than December as is to be expected. However both months have fairly high average temperatures of The difference between the average temperatures of these months appears to be small enough to make 'Surf n' Shake' a viable business through December. There is only a 3 degree farenheit deifference in average temperature with similar standard deviations between each month. 
