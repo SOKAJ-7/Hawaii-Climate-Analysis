@@ -12,4 +12,16 @@ Three takeaways from this analysis are as follows:
 
 -The spread of temperature will be similar between June and December. Both of the months' temperature records have a standard deviation close to 3. December's is slightly higher at 3.74 so there may be slightly higher variance in temperature during Decemeber but it should not be too extreme so as to impact business.
 
+Figures 1 (June) & 2 (December) below demonstrate the basic statistical analysis of the temperature patterns of December and June.
+
+![June_temps](https://user-images.githubusercontent.com/93050931/148696122-e3d30fff-6f69-4956-9936-d4fa830ca191.PNG)
+
+(Figure 1)
+
+![December_temps](https://user-images.githubusercontent.com/93050931/148696133-8346248d-93a8-4b6c-a365-55d13b634202.PNG)
+
+(Figure 2)
+
+
+
 ## Summary
