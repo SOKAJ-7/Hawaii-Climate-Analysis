@@ -28,4 +28,4 @@ Figure 2: December Temperature
 
 
 ## Summary
-Based on the statistical analysis we conducted, it can be said that June will be a warmer month than December as is to be expected. However both months have fairly high average temperatures of The difference between the average temperatures of these months appears to be small enough to make 'Surf n' Shake' a viable business through December. There is only a 3 degree farenheit deifference in average temperature with similar standard deviations between each month. 
+Based on the statistical analysis we conducted, it can be said that June will be a warmer month than December as is to be expected. However, both months have fairly high average temperatures of 75 and 71 F, respectively. If we assume 68 F (20 C) to be the minimum temperature to not impact business, it appears that 'Surf n' Shake' would be a viable business through December. Furthermore, ~75% of days in December will be over 68 F while 
